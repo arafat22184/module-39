@@ -1,10 +1,12 @@
 import "./App.css";
-import Boler from "./Boler";
+// import Boler from "./Boler";
+import Test from "./Test";
 
 function App() {
   return (
     <>
-      <Boler></Boler>
+      {/* <Boler></Boler> */}
+      <Test></Test>
     </>
   );
 }
